@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App10</string>
+    <string name="Share">share</string>
+	<string name="action_settings">Settings</string>
+	<string name="Bluetooh">bluetooth</string>
+	<string name="Exit">exit</string>
+
+
+	<string name="home">HOME</string>
+	<string name="name">Enter Name</string>
+	<string name="password">Enter password</string>
+	<string name="login">LOG IN</string>
+
+</resources>
